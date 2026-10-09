@@ -1,0 +1,6 @@
+# Oude Wix-adressen doorsturen naar de nieuwe one-page site
+/over-ons            /#waarom    301
+/aanbod              /#aanbod    301
+/contact             /#contact   301
+/jobs                /#contact   301
+/privacyverklaring   /privacy    301
